@@ -1,6 +1,6 @@
 # HBB_MiniProject_MaramNhaili
 ## Project description:
-This repository contains the answer responses to the instruction provided by BioninformHer. we were tasked with exploring the evolutionary conservation of the Hemoglobin Beta (HBB) gene across different species using basic bioinformatics tools.
+This repository contains the responses to the instruction provided by BioninformHer. we were tasked with exploring the evolutionary conservation of the Hemoglobin Beta (HBB) gene across different species using basic bioinformatics tools.
 ## Tools and platforms:
 I used 
 1. NCBI BLAST: for basic sequence alignment 
